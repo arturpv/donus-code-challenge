@@ -28,4 +28,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - SQLite3;
 
 # Autor
-Desenvolvido por: Artur Theodoro
+Desenvolvido por: **Artur Theodoro**
