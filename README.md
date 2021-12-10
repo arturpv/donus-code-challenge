@@ -1,9 +1,9 @@
 # donus-code-challenge
 API REST com algumas funções essenciais relacionadas ao gerenciamento de contas bancárias.
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Python 3.9
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: *Git*, *Python 3.9*
 
-Além disso é bom ter um editor para trabalhar com o código como PyCharm
+Além disso é bom ter um editor para trabalhar com o código como *Pycharm* ou *Visual Code*.
 
 # 🎲 Rodando o Projeto
 
