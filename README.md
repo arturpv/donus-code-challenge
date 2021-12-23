@@ -7,17 +7,23 @@ Além disso é bom ter um editor para trabalhar com o código como *Pycharm* ou 
 
 # 🎲 Rodando o Projeto
 
-**#Clone este repositório**
+**#Abrindo o projeto**
 
-$ git clone https://github.com/arturpv/donus-code-challenge
+Primeiramente, irá rodar a api.py.
 
-**#Acesse a pasta do projeto no terminal/cmd**
+**#Rodando o Main**
 
-$ cd Banco
+Após executar a api.py, poderá rodar o main.py, onde poderá cadastrar o CPF e Senha.
 
-**#Execute a aplicação**
+Após o Cadastro do CPF e Senha, logo em seguida pedirá para inserir a senha novamente e então você já terá acesso
+a sua conta. Você terá 5 opções: 1 - Transação
+                                 2 - Saldo
+                                 3 - Depósito
+                                 4 - Saque
+                                 5 - Sair
 
-$ python main.py
+Seu saldo inicial será sempre R$0,00. Para realizar transações ou saques é preciso fazer o depósito primeiro.
+Como informado no inicio do teste, não são permitidas transações acima de R$2000,00 e nem saques que te deixem com saldo negativo.
 
 OBS: Você tem a opção de baixar o arquivo em ZIP, clicando em CODE.
 
